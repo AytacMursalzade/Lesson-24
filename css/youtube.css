@@ -1,0 +1,28 @@
+.parent{
+    overflow: hidden;
+    margin-top: 50px;
+
+}
+
+.child{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin-left: 20px;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: 150px;
+    cursor: progress;
+    border-radius: 12%;
+    background-color: #ddd;
+    border: 3px solid #2832C2;
+   margin: 20px;
+    box-shadow: -1px 5px 11px 13px #016064;
+}
+
+.bak{
+    background-color: #241571;
+    color: #A45EE5;
+    font-weight: bold;
+
+}
